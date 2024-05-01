@@ -11,6 +11,7 @@
 - [Python Crash Course , 2nd Ed](https://nostarch.com/pythoncrashcourse2e)
   - Beginner friendly intro to fundamental concepts
 
+
 ### Intermediate
 
 - [Serious Python](https://serious-python.com/)
@@ -21,3 +22,8 @@
 
 - [Fluent Python, 2nd Edition](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/)
   - The best reference book for Python
+
+  ## Videos
+
+- [Python Talks Playlist](https://youtube.com/playlist?list=PLiS5HT0ret8jvmP3GGmom3hY3jiFBq-8w)
+
